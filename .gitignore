@@ -1,0 +1,3 @@
+# venvは各自作る
+venv/
+__pycache__
