@@ -11,9 +11,12 @@
 * 必要なライブラリのインストール
     - pip3 install -r repuirements.txt
 
+＊ エイリアス登録
+    - 煩わしいのでpython、pipでコマンドが通るようにエイリアスを設定しておいた方が楽です。
+
 ## 実行
 下記コマンドを実行してください
-* python main_process.py
+* python3 main_process.py
 
 ## 内部処理
 main_window.pyが画面上のレイアウトを決定しています。
