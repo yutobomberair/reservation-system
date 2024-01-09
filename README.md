@@ -12,7 +12,8 @@
     - pip3 install -r repuirements.txt
 
 ## 実行
-python main_process.py
+下記コマンドを実行してください
+* python main_process.py
 
 ## 内部処理
 main_window.pyが画面上のレイアウトを決定しています。
