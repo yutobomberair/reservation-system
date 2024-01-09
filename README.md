@@ -5,6 +5,7 @@
 python3 -m venv venv
 
 * venv環境の立ち上げ
+
 (mac)source venv/bin/activate
 (windows)./venv/Scripts/activate
 
