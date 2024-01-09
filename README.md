@@ -9,7 +9,7 @@
     - (windows)./venv/Scripts/activate
 
 * 必要なライブラリのインストール
-    -pip3 install -r repuirements.txt
+    - pip3 install -r repuirements.txt
 
 ## 実行
 python main_process.py
