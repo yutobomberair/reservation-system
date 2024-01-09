@@ -1,16 +1,15 @@
 # reservation-system
 
 ## 環境構築
-* venvで仮想環境を作成する
-python3 -m venv venv
+* venvで仮想環境を作成する 
+    - python3 -m venv venv
 
 * venv環境の立ち上げ
-
-(mac)source venv/bin/activate
-(windows)./venv/Scripts/activate
+    - (mac)source venv/bin/activate
+    - (windows)./venv/Scripts/activate
 
 * 必要なライブラリのインストール
-pip3 install -r repuirements.txt
+    -pip3 install -r repuirements.txt
 
 ## 実行
 python main_process.py
